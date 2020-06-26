@@ -1,3 +1,6 @@
+#Creating the classic game connect 4
+
+
 import numpy as np
 import pygame
 import sys
