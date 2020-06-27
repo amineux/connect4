@@ -1,4 +1,4 @@
-#Creating the classic game connect 4
+#Creating the classic game connect 4 (6*7)
 
 
 import numpy as np
